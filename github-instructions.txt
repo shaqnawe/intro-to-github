@@ -1,0 +1,12 @@
+On first Github Repo Setup
+
+1. git init
+2. git add .
+3. git commit -m "type your message here"
+4. git remote add [remote name] <remote-repository-link>
+5. git push -u origin [remote_name]
+
+On Repo Update
+1. git add .
+2. git commit -m "Type your message here"
+3. git push -u origin [remote name]
